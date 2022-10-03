@@ -41,25 +41,25 @@ ahead and ask questions on the material.
 Introduction to linux as a prelude to R.
 https://github.com/sje30/damtp-unix-intro
 
-###  Live Lecture 2 (R)
-<2021-10-13 Wed 09:00-10:00>
+<!-- ###  Live Lecture 2 (R) -->
+<!-- <2021-10-13 Wed 09:00-10:00> -->
 
-Basics of R.  Course material; how to work through it.
+<!-- Basics of R.  Course material; how to work through it. -->
 
-Extra books to consider: 
-[Dynamic models in Biology](https://github.com/ellner/DMB-supplements)
--- good for the handout with exercises.
+<!-- Extra books to consider:  -->
+<!-- [Dynamic models in Biology](https://github.com/ellner/DMB-supplements) -->
+<!-- -- good for the handout with exercises. -->
 
-[A First Course in Statistical Programming with R](https://www.cambridge.org/highereducation/books/a-first-course-in-statistical-programming-with-r/0CEDD40A37D273025535A03F1156A2CF#overview)
-now in 3rd edition.
+<!-- [A First Course in Statistical Programming with R](https://www.cambridge.org/highereducation/books/a-first-course-in-statistical-programming-with-r/0CEDD40A37D273025535A03F1156A2CF#overview) -->
+<!-- now in 3rd edition. -->
 
-[Modern statistics for modern biology](https://www.huber.embl.de/msmb/).
-
-
+<!-- [Modern statistics for modern biology](https://www.huber.embl.de/msmb/). -->
 
 
 
-<!-- ###  Live Lecture 3 (R) -->
+
+
+<!-- ###  live Lecture 3 (R) -->
 <!-- <2021-10-15 Fri 09:00-10:00> -->
 
 <!-- Aims: -->
