@@ -7,9 +7,8 @@ tend to update this page more often.  You will need the moodle site
 mostly for assignment submissions.
 
 Live lectures will be held on Teams in the "MATHS_MPhil Computational
-Biology 2022-23"channel , and recorded.  Recordings are available on
-[Panopto](https://cambridgelectures.cloud.panopto.eu/Panopto/Pages/Sessions/List.aspx?folderID=3c6afa11-8d52-45f2-9b38-adb00100a1a0).
-**This is still to be activated.**
+Biology 2022-23" channel, and recorded.  Recordings of lectures are
+available in the [Files](https://universityofcambridgecloud.sharepoint.com/:f:/r/sites/DAMTP_MPhilinComputationalBiologyTeam2022-23/Shared%20Documents/Scientific%20Programming%202022/Recordings?csf=1&web=1&e=9kOVvg) area of the channel.
 
 ## Consent for recordings
 
