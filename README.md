@@ -34,16 +34,18 @@ ahead and ask questions on the material.
 
 ## Timetable
 
-###  Live Lecture 1 (linux)
+###  Live Lecture 01 (linux)
 <2022-10-06 Thu 10:00-11:00>
 
 Introduction to linux as a prelude to R.
 https://github.com/sje30/damtp-unix-intro
 
-<!-- ###  Live Lecture 2 (R) -->
-<!-- <2021-10-13 Wed 09:00-10:00> -->
+###  Live Lecture 02, 03 (R)
+<2022-10-10 Mon 10:00-12:00>
 
-<!-- Basics of R.  Course material; how to work through it. -->
+Basics of R.  [Course material](spr2022.pdf); how to work through it.
+Originals of course material are at: https://github.com/lgatto/spr/
+
 
 <!-- Extra books to consider:  -->
 <!-- [Dynamic models in Biology](https://github.com/ellner/DMB-supplements) -->
