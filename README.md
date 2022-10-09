@@ -6,8 +6,10 @@ page](https://www.vle.cam.ac.uk/course/view.php?id=245192) but I will
 tend to update this page more often.  You will need the moodle site
 mostly for assignment submissions.
 
-Live lectures will be held on Teams in the "MATHS_MPhil Computational
-Biology 2022-23" channel, and recorded.  Recordings of lectures are
+Live lectures will be held on Teams in the [MATHS_MPhil Computational
+Biology
+2022-23](https://teams.microsoft.com/l/channel/19%3aU0VPMLHT0yG1SaFT4ii-ZHZfp8hP9jeqa3FOVZ_1Ics1%40thread.tacv2/General?groupId=dc32d844-7363-4ffe-9d88-914f976d5318&tenantId=49a50445-bdfa-4b79-ade3-547b4f3986e9)
+channel, and recorded.  Recordings of lectures are
 available in the [Files](https://universityofcambridgecloud.sharepoint.com/:f:/r/sites/DAMTP_MPhilinComputationalBiologyTeam2022-23/Shared%20Documents/Scientific%20Programming%202022/Recordings?csf=1&web=1&e=9kOVvg) area of the channel.
 
 ## Consent for recordings
