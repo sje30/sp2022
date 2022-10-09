@@ -26,6 +26,7 @@ ahead and ask questions on the material.
 
 ## Part 2 material 
 
+- Julia notebooks (to follow)
 - [LaTeX 101](https://github.com/sje30/latex101/blob/master/latex101.pdf)
 - [Reproducible research](https://github.com/lgatto/spr/blob/master/rr/rr3.pdf)
 - [Numerical integration](de.pdf)
