@@ -43,11 +43,13 @@ ahead and ask questions on the material.
 Introduction to linux as a prelude to R.
 https://github.com/sje30/damtp-unix-intro
 
-###  Live Lecture 02, 03 (R)
+###  Live Lecture 02, 03 
 <2022-10-10 Mon 10:00-12:00>
 
 Basics of R.  [Course material](spr2022.pdf); how to work through it.
 Originals of course material are at: https://github.com/lgatto/spr/
+
+Slides 
 
 
 <!-- Extra books to consider:  -->
@@ -60,6 +62,19 @@ Originals of course material are at: https://github.com/lgatto/spr/
 <!-- [Modern statistics for modern biology](https://www.huber.embl.de/msmb/). -->
 
 
+
+###  Live Lecture 04, 05
+<2022-10-13 Thu 10:00-12:00>
+
+Lecture 04: Slides 30--50
+Lecture 05: Slides 50--63
+
+
+###  Live Lecture 06, 07
+<2022-10-17 Mon 10:00-12:00>
+
+Lecture 06: Slides 63--
+<!-- Lecture 07: Slides --. -->
 
 
 
