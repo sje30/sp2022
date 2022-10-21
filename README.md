@@ -66,8 +66,7 @@ Slides
 ###  Live Lecture 04, 05
 <2022-10-13 Thu 10:00-12:00>
 
-Lecture 04: Slides 30--50
-
+Lecture 04: Slides 30--50<br>
 Lecture 05: Slides 50--63
 
 
@@ -76,13 +75,13 @@ Notes: Rstudio on subliminal not currently generating plots.
 ###  Live Lecture 06, 07
 <2022-10-17 Mon 10:00-12:00>
 
-Lecture 06: Slides 63--87
+Lecture 06: Slides 63--87<br>
 Lecture 07: Slides 87--115
 
 ###  Live Lecture 08, 09
 <2022-10-20 Thu 10:00-12:00>
 
-Lecture 08: Slides 115--137
+Lecture 08: Slides 115--137<br>
 Lecture 09: Slides 137--162
 
 <!-- yesterday -->
