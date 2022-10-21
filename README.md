@@ -75,7 +75,36 @@ Notes: Rstudio on subliminal not currently generating plots.
 ###  Live Lecture 06, 07
 <2022-10-17 Mon 10:00-12:00>
 
-Lecture 06: Slides 63--
+Lecture 06: Slides 63--87
+Lecture 07: Slides 87--115
+
+###  Live Lecture 08, 09
+<2022-10-20 Thu 10:00-12:00>
+
+Lecture 08: Slides 115--137
+Lecture 09: Slides 137--162
+
+<!-- yesterday -->
+
+
+
+###  Live Lecture 10, 11
+<2022-10-24 Mon 10:00-12:00>
+
+HOTPO (part 1)
+
+
+###  Live Lecture 12, 13
+<2022-10-27 Thu 10:00-12:00>
+
+###  Live Lecture 14, 15
+<2022-10-31 Mon 10:00-12:00>
+
+###  Live Lecture 16
+<2022-11-02 Thu 10:00-11:00>
+
+wrap up
+
 <!-- Lecture 07: Slides --. -->
 
 
@@ -152,10 +181,9 @@ Lecture 06: Slides 63--
 
 ## Assignments
 
-Three to follow.  Assignments to be submitted to moodle.
+Three.  Assignments to be submitted to moodle.
 
-
-<!-- [Assignment 1](assigns/spa1-2021.pdf) -->
+[Assignment 1](assigns/a1/spa1-2022.pdf)
 
 <!-- [Assignment 2](assigns/spa2-2021.pdf) -->
 
