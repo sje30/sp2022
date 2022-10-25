@@ -91,7 +91,12 @@ Lecture 09: Slides 137--162
 ###  Live Lecture 10, 11
 <2022-10-24 Mon 10:00-12:00>
 
-HOTPO (part 1)
+
+Discussion of assignment 1.<br>
+[HOTPO (part 1)](https://github.com/sje30/hotpo)
+
+Lecture 10: Assignment, HOTPO (slide 163)<br>
+Lecture 11: Slides 164--179.
 
 
 ###  Live Lecture 12, 13
