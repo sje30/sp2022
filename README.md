@@ -106,7 +106,7 @@ Finishing R; Onto Julia!
 
 [Julia material](https://github.com/Nick-Gale/2022_Scientific_Programming_CamCompBio/)
 
-To run through the 
+To run through the [Jupyter installation](https://github.com/Nick-Gale/2022_Scientific_Programming_CamCompBio/blob/main/install_julia.md).
 
 ###  Live Lecture 14, 15
 <2022-10-31 Mon 10:00-12:00>
