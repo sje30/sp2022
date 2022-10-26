@@ -102,11 +102,19 @@ Lecture 11: Slides 164--179.
 ###  Live Lecture 12, 13
 <2022-10-27 Thu 10:00-12:00>
 
+Finishing R; Onto Julia!
+
+[Julia material](https://github.com/Nick-Gale/2022_Scientific_Programming_CamCompBio/)
+
+To run through the 
+
 ###  Live Lecture 14, 15
 <2022-10-31 Mon 10:00-12:00>
 
 ###  Live Lecture 16
 <2022-11-02 Thu 10:00-11:00>
+
+Reproducible research.
 
 wrap up
 
