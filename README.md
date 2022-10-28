@@ -106,7 +106,13 @@ Finishing R; Onto Julia!
 
 [Julia material](https://github.com/Nick-Gale/2022_Scientific_Programming_CamCompBio/)
 
-To run through the [Jupyter installation](https://github.com/Nick-Gale/2022_Scientific_Programming_CamCompBio/blob/main/install_julia.md).
+To run through the [Jupyter
+installation](https://github.com/Nick-Gale/2022_Scientific_Programming_CamCompBio/blob/main/install_julia.md).
+
+Julia 1 was covered in live lecture 13. (SP-13)
+
+Julia 2 was pre-recorded and is
+[available](https://universityofcambridgecloud.sharepoint.com/:v:/r/sites/DAMTP_MPhilinComputationalBiologyTeam2022-23/Shared%20Documents/Scientific%20Programming%202022/Recordings/SP-13-Julia-lec2.mp4?csf=1&web=1&e=Xwl0UQ)  (SP-13-Julia-lec2)
 
 ###  Live Lecture 14, 15
 <2022-10-31 Mon 10:00-12:00>
@@ -114,7 +120,7 @@ To run through the [Jupyter installation](https://github.com/Nick-Gale/2022_Scie
 ###  Live Lecture 16
 <2022-11-02 Thu 10:00-11:00>
 
-Reproducible research.
+Reproducible research.  Wrap up.
 
 wrap up
 
