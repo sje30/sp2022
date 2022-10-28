@@ -218,7 +218,9 @@ your laptop if you have any issues with running R on your machine.
 
 ## LaTeX
 
-I have a pre-recorded [video](https://universityofcambridgecloud.sharepoint.com/:v:/r/sites/DAMTP_MPhilinComputationalBiologyTeam2022-23/Shared%20Documents/Scientific%20Programming%202022/Recordings/LaTeX%20101.mp4?csf=1&web=1&e=sDgZpV) (from 2020) on LaTeX.  It is a one-hour
+I have a pre-recorded
+[video](https://universityofcambridgecloud.sharepoint.com/:v:/s/DAMTP_MPhilinComputationalBiologyTeam2022-23/Eaj9OG815bRPnHsmMustVNYBiRFfGefVCgCdskB7Mu7Dfw?e=8rOSgN)
+(from 2020) on LaTeX (available only to .cam.ac.uk users).  It is a one-hour
 introduction for those who are new to LaTeX, and follows [these
 slides](https://github.com/sje30/latex101).  After that, you might
 wish to write your own template report following [the texintro
