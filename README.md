@@ -28,7 +28,7 @@ ahead and ask questions on the material.
 
 ## Part 2 material 
 
-- Julia notebooks (to follow)
+- Julia
 - [LaTeX 101](https://github.com/sje30/latex101/blob/master/latex101.pdf)
 - [Reproducible research](https://github.com/lgatto/spr/blob/master/rr/rr3.pdf)
 - [Numerical integration](de.pdf)
@@ -213,5 +213,15 @@ Three.  Assignments to be submitted to moodle.
 Examples classes to be led by Max Niroomand (three sessions).
 The format of these is quite open ended currently, but please bring
 your laptop if you have any issues with running R on your machine.
+
+
+
+## LaTeX
+
+I have a pre-recorded [video](https://universityofcambridgecloud.sharepoint.com/:v:/r/sites/DAMTP_MPhilinComputationalBiologyTeam2022-23/Shared%20Documents/Scientific%20Programming%202022/Recordings/LaTeX%20101.mp4?csf=1&web=1&e=sDgZpV) (from 2020) on LaTeX.  It is a one-hour
+introduction for those who are new to LaTeX, and follows [these
+slides](https://github.com/sje30/latex101).  After that, you might
+wish to write your own template report following [the texintro
+example](https://github.com/sje30/texintro).
 
 
