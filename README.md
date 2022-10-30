@@ -70,7 +70,8 @@ Lecture 04: Slides 30--50<br>
 Lecture 05: Slides 50--63
 
 
-Notes: Rstudio on subliminal not currently generating plots.
+Notes: Rstudio on subliminal not currently generating plots.  (Update:
+Now fixed).
 
 ###  Live Lecture 06, 07
 <2022-10-17 Mon 10:00-12:00>
@@ -102,7 +103,9 @@ Lecture 11: Slides 164--179.
 ###  Live Lecture 12, 13
 <2022-10-27 Thu 10:00-12:00>
 
-Finishing R; Onto Julia!
+Finishing R.  [Annotated version of notes](spr2022-edits.pdf)
+
+
 
 [Julia material](https://github.com/Nick-Gale/2022_Scientific_Programming_CamCompBio/)
 
@@ -117,6 +120,13 @@ installation](https://github.com/Nick-Gale/2022_Scientific_Programming_CamCompBi
 ###  Live Lecture 14, 15
 <2022-10-31 Mon 10:00-12:00>
 
+[Julia 3]((https://github.com/Nick-Gale/2022_Scientific_Programming_CamCompBio/blob/main/Lectures/lecture3.pdf)
+
+[Julia 4]((https://github.com/Nick-Gale/2022_Scientific_Programming_CamCompBio/blob/main/Lectures/lecture4.pdf)
+
+NB: Bioconductor 3.16 is [released on 2nd
+November](https://bioconductor.org/developers/release-schedule/).   To
+install, ignore lecture notes and now follow <https://bioconductor.org/install/>
 ###  Live Lecture 16
 <2022-11-02 Thu 10:00-11:00>
 
