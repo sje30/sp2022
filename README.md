@@ -120,9 +120,9 @@ installation](https://github.com/Nick-Gale/2022_Scientific_Programming_CamCompBi
 ###  Live Lecture 14, 15
 <2022-10-31 Mon 10:00-12:00>
 
-[Julia 3]((https://github.com/Nick-Gale/2022_Scientific_Programming_CamCompBio/blob/main/Lectures/lecture3.pdf)
+[Julia 3](https://github.com/Nick-Gale/2022_Scientific_Programming_CamCompBio/blob/main/Lectures/lecture3.pdf)
 
-[Julia 4]((https://github.com/Nick-Gale/2022_Scientific_Programming_CamCompBio/blob/main/Lectures/lecture4.pdf)
+[Julia 4](https://github.com/Nick-Gale/2022_Scientific_Programming_CamCompBio/blob/main/Lectures/lecture4.pdf)
 
 NB: Bioconductor 3.16 is [released on 2nd
 November](https://bioconductor.org/developers/release-schedule/).   To
