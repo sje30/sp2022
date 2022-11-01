@@ -214,9 +214,9 @@ Three.  Assignments to be submitted to moodle.
 
 [Assignment 1](assigns/a1/spa1-2022.pdf)
 
-<!-- [Assignment 2](assigns/spa2-2021.pdf) -->
+[Assignment 2](assigns/a2/spa2-2022.pdf)
 
-<!-- [Assignment 3](assigns/spa3-2021.pdf) -->
+<!-- [Assignment 3](assigns/spa3-2022.pdf) -->
 
 <!-- To help with assignment 2, here is a way to include your R code -->
 <!-- functions in an appendix, rather than in the main body of the report. -->
