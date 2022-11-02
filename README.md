@@ -130,83 +130,9 @@ install, ignore lecture notes and now follow <https://bioconductor.org/install/>
 ###  Live Lecture 16
 <2022-11-02 Thu 10:00-11:00>
 
-Reproducible research.  Wrap up.
-
-wrap up
-
-<!-- Lecture 07: Slides --. -->
+[Reproducible research](https://github.com/lgatto/spr/blob/master/rr/rr3.pdf).  Wrap up.
 
 
-
-<!-- ###  live Lecture 3 (R) -->
-<!-- <2021-10-15 Fri 09:00-10:00> -->
-
-<!-- Aims: -->
-
-<!-- - Role of examples classes (introduce Max if available) -->
-<!-- - review deadline for A1 (default 27th October). -->
-<!-- - finish permutation testing from neuRo. -->
-<!-- - [introduction to latex](https://github.com/sje30/latex101) live demo -->
-<!--   of running it from command line and with [overleaf](https://overleaf.com) -->
-<!-- - Q&A (perhaps unrecorded if that helps with discussions). -->
-
-
-
-
-<!-- ###  Live Lecture 4 (R) -->
-<!-- <2021-10-20 Wed 09:00-10:00> -->
-
-<!-- Aims: -->
-
-<!-- - Main opportunity for questions on assignment 1. -->
-<!-- - Review of lecture material from part I up to page 116 (end of -->
-<!--   section on objects). -->
-
-<!-- ###  Live Lecture 5 (R) -->
-<!-- <2021-10-22 Fri 09:00-10:00> -->
-
-<!-- (New Part 2 topic.) Using github for your work.  Please get a github -->
-<!-- account beforehand; get a student account -->
-<!-- https://education.github.com/pack to ensure you get the 'Pro' features -->
-<!-- like private repositories. -->
-
-<!-- To cover: version control, markdown, issues, '.', binder. -->
-
-<!-- See: [github](github) folder for materials, and for the final -->
-<!-- repository, see https://github.com/sje30/darts -->
-
-<!-- Recommendation from class for 'github desktop' client -->
-<!-- https://desktop.github.com/ to ease use of working with github. -->
-	
-<!-- ###  Live Lecture 6 (R) -->
-<!-- <2021-10-27 Wed 09:00-10:00> -->
-
-<!-- Aims: -->
-<!-- - Review of lecture material from part I up to end of document. -->
-<!-- - Assignment 2 to be handed out, with suggested two-week deadline. -->
-<!-- - Reproducible research (part 2 lectures: RR 0, RR 1 (Make), RR 2 (knitr). -->
-<!-- - Introduction to optimisation -- simulated annealing. [Kirkpatrick et al 1983](https://paperpile.com/app/p/c885cc7d-488e-0352-82ad-0de4045427c9). -->
-
-<!-- ###  Live Lecture 7 (R) -->
-<!-- <2021-10-29 Fri 09:00-10:00> -->
-
-<!-- Part 2: Numerical integration. [de.pdf](de.pdf) -->
-
-<!-- ###  Live Lecture 8 (R) -->
-<!-- <2021-11-03 Wed 09:00-10:00> -->
-
-<!-- Feedback session on assignment 1.  Questions on assignment 2. -->
-
-<!-- ###  Live Lecture 9 (R) -->
-<!-- <2021-11-05 Fri 09:00-10:00> -->
-
-<!-- Conclusions; next steps. -->
-
-<!-- - GGPLOT Third edition in prep: https://ggplot2-book.org/ -->
-<!-- - R for Data Science https://r4ds.had.co.nz/ -->
-<!-- - Markdown, Bookdown https://bookdown.org/ -->
-
-<!-- Assignment 3 to be handed out. -->
 
 ## Assignments
 
